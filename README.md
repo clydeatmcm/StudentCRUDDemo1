@@ -11,14 +11,14 @@ This demonstration is a great starting point for learning how to create desktop 
 ### Steps
 
 1. Set Up the Project:
-  - [ ] Create a new Windows Forms application in Visual Studio.
-  - [ ] Add references to necessary libraries (like ```using Microsoft.Data.SqlClient```).
+    - [ ] Create a new Windows Forms application in Visual Studio.
+    - [ ] Add references to necessary libraries (like ```using Microsoft.Data.SqlClient```).
 2. Design the User Interface:
-  - [ ] Use the Windows Forms Designer to add controls:
-    - [ ] DataGridView for displaying student records.
-    - [ ] TextBoxes for entering student ID and GPA.
-    - [ ] DateTimePicker for selecting the student’s birthday.
-    - [ ] Buttons for adding, updating, and deleting records.
+    - [ ] Use the Windows Forms Designer to add controls:
+      - [ ] DataGridView for displaying student records.
+      - [ ] TextBoxes for entering student ID and GPA.
+      - [ ] DateTimePicker for selecting the student’s birthday.
+      - [ ] Buttons for adding, updating, and deleting records.
 3. Create the Database:
     - [ ] Use SQL Server Management Studio to create a new database.
     - [ ] Define a table for students with columns for ID, birthday, and GPA.
